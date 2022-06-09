@@ -1,5 +1,4 @@
 
-![my_foto](/img/1.jpg "Мое фото")
 ====
 #Bernatovich Sergei#
 =====
