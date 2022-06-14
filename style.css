@@ -16,16 +16,6 @@ body {
     line-height: 1.5;
      color: #4d2323;
 }
-
-header{
-    border: 1px solid red;
-}
-main{
-    border: 1px solid red;
-}
-footer{
-    border: 1px solid red;
-}
 .container {
     max-width: 1440px;
     margin: 0 auto;
@@ -79,7 +69,6 @@ footer{
       width: 100%;
     }
   }
-
   .link {
     text-decoration: none;
     color: #829985;
@@ -93,8 +82,7 @@ footer{
     position: relative;
     padding-left: 30px;
   }
-  
-  .section-item::before {
+    .section-item::before {
     content: "";
     position: absolute;
     top: 8px;
