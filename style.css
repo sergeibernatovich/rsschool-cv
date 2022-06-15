@@ -20,6 +20,10 @@ header
 {
 background-color:yellow;
 }
+footer 
+{
+    background-color:yellow;
+}
 .container {
     max-width: 1440px;
     margin: 0 auto;
