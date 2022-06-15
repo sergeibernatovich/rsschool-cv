@@ -16,6 +16,10 @@ body {
     line-height: 1.5;
      color: #4d2323;
 }
+header 
+{
+background-color:yellow;
+}
 .container {
     max-width: 1440px;
     margin: 0 auto;
